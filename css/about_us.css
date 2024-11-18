@@ -60,7 +60,7 @@ main{
     justify-content: center;
     gap:20px;
     border-radius: 10px;
-    width: 18%;
+    width: 25%;
     box-shadow: 0 0 15px 5px #915ad4;
 }
 
@@ -76,6 +76,24 @@ h3 {
     color:#7922E2;
     font-weight: bold;
 }
+
+.text-nosotros{
+    color: #FFF;
+    font-family: "Roboto", system-ui;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  }
+
+  .title-nosotros{
+    color: #FFF;
+    font-family: "Roboto", system-ui;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
 
 .img-container img {
     width: 70%;

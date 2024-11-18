@@ -49,16 +49,6 @@ padding: 15px;
 border-radius: 5px;
 }	
 
-/* .text-footer{
-  color: #4817A4;
-  font-family: "Roboto";
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
-} */
-
-
   .card-img-custom {
     width: 100%;
     padding: 10px; 
@@ -90,20 +80,6 @@ border-radius: 5px;
     }
   }
 
-
-  /* .navbar-toggler-icon {
-    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
-  }
-
-  .navbar-nav .nav-link {
-    color: white !important;
-    font-size: 20px;
-  }
-
-  .navbar a.active {
-    color: #FE7132 !important;
-  } */
-
   .pb-custom {
     padding-bottom: 1.8rem !important;
 }
@@ -112,6 +88,20 @@ border-radius: 5px;
   padding-right: 3rem !important;
   padding-left: 3rem !important;
 }
+
+.btn-primary {
+  background-color:#7922E2;
+  color:#fff;
+  font-weight: bold;
+  border: 0px;
+  min-width: 110px;
+}
+
+.btn-primary:hover {
+  background-color: #FE7132;
+  color: #fff;
+}
+
 
 @media (max-width: 576px) {
   .px-custom {
